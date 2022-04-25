@@ -1,0 +1,47 @@
+
+body{
+    background-image: url(https://i.imgur.com/0dJ7A6L.png);
+    background-repeat: no-repeat;
+    background-size: 100% 500%;
+}
+
+h1{
+    position: relative; left: 850px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2{
+    position: relative; top: 650px; left: 750px;
+}
+
+.play-button{
+    position: relative; top: 700px; left: 850px;
+}
+
+.wrong-letter{
+    position: relative; top: 600px; left: 100px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+.wrongGuess-container{
+    position: relative; top: 650px; left: 100px;
+}
+
+.underscore{
+    position: relative; top: 700px; left: 850px;
+}
+
+.right-letter{
+    position: relative; top: 600px; left: 1500px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    
+}
+
+.rightGuess-container{
+    position: relative; top: 650px; left: 1500px;
+}
+
+.underscore{
+    font-size: x-large;
+}
