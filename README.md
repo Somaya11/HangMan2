@@ -24,3 +24,4 @@ History Though the origins of the game are unknown, a variant is mentioned in a 
 3. Option for 2 players
 
 # URL:
+https://somaya11.github.io/HangMan2/
